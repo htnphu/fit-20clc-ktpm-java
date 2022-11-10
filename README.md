@@ -8,3 +8,9 @@ Demo Git and java for Java courses at fit@hcmus
   $ git config --global user.name "Han Phu"
   $ git config --global user.email phuhanld@gmail.com
 ```
+
+# Git branch command
+
+```shell
+$ git branch
+```
