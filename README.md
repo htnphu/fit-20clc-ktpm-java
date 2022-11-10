@@ -16,3 +16,10 @@ $ git branch
 $ git checkout <commit-id>
 # git checkout <commit-id> - b <new-brand-name>
 ```
+
+# Git merge command
+
+```shell
+$ git checkout <brand-name-main>
+$ git merge <brand-name-be-merged>
+```
