@@ -13,4 +13,5 @@ Demo Git and java for Java courses at fit@hcmus
 
 ```shell
 $ git branch
+$ git checkout <commit-id>
 ```
